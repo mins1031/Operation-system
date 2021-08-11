@@ -213,8 +213,8 @@ int main()
    2) 데이터 공유(shared memory)
      * 두 프로세스간의 공유된 메모리를 생성후 이용하는것
      * 성능이 좋지만 동기화 문제가 발생한다 
-
-
+   <img src="https://media.vlpt.us/images/jieuni/post/7065c5c2-d4a0-43e9-80ba-39ba2285d081/image.png"/>
+   aptpwl ryga
 
 
 
